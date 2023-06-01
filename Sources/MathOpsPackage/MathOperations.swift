@@ -50,6 +50,10 @@ public class MathOperations {
             op2 = value
         }
     }
+
+    public func test() {
+        print("test")
+    }
     
     
     public func calculateResult() {
